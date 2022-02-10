@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.069cfd76.chunk.css",
-    "main.js": "/static/js/main.6784ec25.chunk.js",
-    "main.js.map": "/static/js/main.6784ec25.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.47c188fa.js",
-    "runtime-main.js.map": "/static/js/runtime-main.47c188fa.js.map",
+    "main.css": "/static/css/main.66a93f0e.chunk.css",
+    "main.js": "/static/js/main.d9a9463c.chunk.js",
+    "main.js.map": "/static/js/main.d9a9463c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.92a08843.js",
+    "runtime-main.js.map": "/static/js/runtime-main.92a08843.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.13bc2b1d.chunk.js": "/static/js/2.13bc2b1d.chunk.js",
-    "static/js/2.13bc2b1d.chunk.js.map": "/static/js/2.13bc2b1d.chunk.js.map",
-    "static/js/3.b41f8b6c.chunk.js": "/static/js/3.b41f8b6c.chunk.js",
-    "static/js/3.b41f8b6c.chunk.js.map": "/static/js/3.b41f8b6c.chunk.js.map",
+    "static/js/2.a9cdb876.chunk.js": "/static/js/2.a9cdb876.chunk.js",
+    "static/js/2.a9cdb876.chunk.js.map": "/static/js/2.a9cdb876.chunk.js.map",
+    "static/js/3.2fb34e6c.chunk.js": "/static/js/3.2fb34e6c.chunk.js",
+    "static/js/3.2fb34e6c.chunk.js.map": "/static/js/3.2fb34e6c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.8c0e6b67.chunk.css.map": "/static/css/2.8c0e6b67.chunk.css.map",
-    "static/css/main.069cfd76.chunk.css.map": "/static/css/main.069cfd76.chunk.css.map",
-    "static/js/2.13bc2b1d.chunk.js.LICENSE.txt": "/static/js/2.13bc2b1d.chunk.js.LICENSE.txt",
+    "static/css/main.66a93f0e.chunk.css.map": "/static/css/main.66a93f0e.chunk.css.map",
+    "static/js/2.a9cdb876.chunk.js.LICENSE.txt": "/static/js/2.a9cdb876.chunk.js.LICENSE.txt",
     "static/media/Rectangle 42.73c04367.png": "/static/media/Rectangle 42.73c04367.png",
     "static/media/footer-social.3efbf97a.png": "/static/media/footer-social.3efbf97a.png",
     "static/media/form-image.66afe899.png": "/static/media/form-image.66afe899.png",
@@ -21,10 +21,10 @@
     "static/media/powered-by.135e90fe.png": "/static/media/powered-by.135e90fe.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.47c188fa.js",
+    "static/js/runtime-main.92a08843.js",
     "static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.13bc2b1d.chunk.js",
-    "static/css/main.069cfd76.chunk.css",
-    "static/js/main.6784ec25.chunk.js"
+    "static/js/2.a9cdb876.chunk.js",
+    "static/css/main.66a93f0e.chunk.css",
+    "static/js/main.d9a9463c.chunk.js"
   ]
 }
